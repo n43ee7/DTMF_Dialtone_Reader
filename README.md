@@ -24,7 +24,7 @@ Power Spectral Density (PSD) of input signal: \
 Classified Low-band and High-band frequencies of input signal: \
 ![image](https://user-images.githubusercontent.com/47240597/202922089-2577080a-b205-4658-be5e-e769d71ebb6a.png)
 \
-\
+
 _____________________________________________________________________________________
 ### Usage
 The application uses MATLAB DSP Toolkit which may be prompted to be installed if not found in MATLAB installation. Follow the link HERE: https://www.mathworks.com/products/dsp-system.html to install it. After verification of DSP Toolkit, follow the steps below to run the script

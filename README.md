@@ -5,15 +5,15 @@ Designed using MATLAB + DSP Toolkit for CSE 3313 DFT Project \
 
 _____________________________________________________________________________________
 ### Project Overview
-The following can be a test input for 
+The following are some output graphs of the script runtime: \
+\
+Sample Input: \
 ![image](https://user-images.githubusercontent.com/47240597/202922196-f6477319-1b0a-44d5-b92a-98ff2cbaeafc.png)
 
-
-The project uses some concepts of DSP that fascinate me from time to time such as one of the ways I used in this project was Granular synthesis which essentially chops down samples of an input signal and creates samples that can be individually checked.
-
-![image](https://user-images.githubusercontent.com/47240597/202922074-3c0e462d-808a-4607-be3d-157700ccf9fc.png)
-
+\
+DFT (FFT) Response of input signal: \
 ![image](https://user-images.githubusercontent.com/47240597/202922079-3ab2896a-0128-466b-af8e-5bd502a4092e.png)
+
 
 ![image](https://user-images.githubusercontent.com/47240597/202922083-b36ae2be-d4bb-4cfa-a0dd-27062d7deab7.png)
 
